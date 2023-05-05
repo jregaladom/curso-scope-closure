@@ -9,3 +9,4 @@ function greeting() {
 
 greeting(); //Nguyen Van A
 console.log(userName); //error: userName is not defined
+
